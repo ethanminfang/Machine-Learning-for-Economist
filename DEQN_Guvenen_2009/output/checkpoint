@@ -1,0 +1,6 @@
+model_checkpoint_path: "sess_4900.ckpt"
+all_model_checkpoint_paths: "sess_4500.ckpt"
+all_model_checkpoint_paths: "sess_4600.ckpt"
+all_model_checkpoint_paths: "sess_4700.ckpt"
+all_model_checkpoint_paths: "sess_4800.ckpt"
+all_model_checkpoint_paths: "sess_4900.ckpt"
